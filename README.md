@@ -34,7 +34,7 @@ Kedar Shidhaye - 16010121187
 ----------------
 
 ### How to run :
-
+##### Disclaimer : Make sure your node version is  <=16
 - Run hardhat node
     ```
     npx hardhat node
