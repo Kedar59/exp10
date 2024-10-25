@@ -4,7 +4,7 @@
 Uditi Sinha - 16010121194
 
 Kedar Shidhaye - 16010121187
-### Project features :bulb:
+### Project features 
 
 - [x] User can start a fundraising.
 - [x] Anyone can contribute.
@@ -16,7 +16,7 @@ Kedar Shidhaye - 16010121187
 - [x] Connect with waller.
 
 
-### Tech stack & packages used 📦
+### Tech stack & packages used 
 
 | package                                                             | explain                                                               |
 | ------------------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -33,7 +33,7 @@ Kedar Shidhaye - 16010121187
 
 ----------------
 
-### How to run :runner: :
+### How to run :
 
 - Run hardhat node
     ```
